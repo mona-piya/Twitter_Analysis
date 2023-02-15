@@ -1,6 +1,6 @@
 # Twitter Analysis
 
-400 tweets was collected from Julian Hill MP (@JulianHillMP) and Scott Morrison (@ScottMorrisonMP)-200 from each.  
+400 tweets were collected from Julian Hill MP (@JulianHillMP) and Scott Morrison (@ScottMorrisonMP)-200 from each.  
 
 This repo task are
 - Use pandas to plot the posting times of the tweets for the two users in one bar chart; the aim of the plot is to distinguish the two users.
